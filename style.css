@@ -134,6 +134,7 @@ html {
 }
 .setting-container {
   margin-left: 10%;
+  margin-top: 3%;
   width: 60px;
   height: 50px;
   display: flex;
@@ -434,7 +435,8 @@ noscript {
   width: 60%;
   height: 100%;
   align-items: flex-start;
-  justify-content: center;
+  margin-top: 3%;
+  justify-content: start;
 }
 #hello-friend {
   font-size: 3.5rem;
@@ -543,6 +545,7 @@ noscript {
   padding-top: 15px;
   color: var(--color-ddd-color);
   /* line-height: 20px; */
+  margin-left: 5%;
 }
 .contact-btn-div {
   width: fit-content;
