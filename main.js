@@ -107,3 +107,7 @@ function scrolltoTopfunction() {
     },
     !1
 );
+
+  function scrollToAbout() {
+    document.getElementById('footer').scrollIntoView({ behavior: 'smooth' });
+  }
